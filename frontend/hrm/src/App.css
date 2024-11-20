@@ -1,0 +1,16 @@
+.App {
+	text-align: center;
+  font-style: italic;
+  }
+
+.app {
+    display: flex;
+    height: 100vh;
+  }
+  
+.main-content {
+    flex: 1;
+    padding: 20px;
+    background-color: #ffffff;
+}
+  
